@@ -75,16 +75,16 @@ Innovative Software Engineer with specialized expertise in **backend architectur
       <p><b>Stack:</b> Node.js · Express · Puppeteer · OpenAI · Supabase · Jest</p>
     </td>
     <td width="50%">
-      <h3 align="center">ECo 🌱 Plant Disease Detection</h3>
+      <h3 align="center">ECo 🌱 Universal Crop Diagnostic System</h3>
       <p align="center">
         <a href="https://github.com/Eldasoky1/ECo">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
       <p>
-        End-to-end AI system using <b>EfficientNet-B0</b> to detect and diagnose agricultural diseases across tomatoes, potatoes, citrus, and wheat. Includes a high-performance <b>FastAPI</b> backend serving real-time predictions with curated treatment recommendations for Egyptian farmers.
+        End-to-end AI system using <b>EfficientNet-B0</b> to diagnose agricultural diseases. Features a <b>FastAPI</b> backend, a robust botanical <b>SQLAlchemy Database</b>, and a universal zero-shot fallback mechanism using the <b>Gemini Vision API</b> to support real-time predictions for Egyptian farmers.
       </p>
-      <p><b>Stack:</b> Python · PyTorch · TensorFlow · FastAPI · Computer Vision</p>
+      <p><b>Stack:</b> Python · PyTorch · FastAPI · Gemini (LLM) · SQLAlchemy</p>
     </td>
   </tr>
 </table>
