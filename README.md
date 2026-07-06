@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile_pic.png" alt="Ahmed Eldasoky Profile Picture" width="300" style="border-radius: 50%;" />
+  <img src="assets/profile_pic.png.jpg" alt="Ahmed Eldasoky Profile Picture" width="300" style="border-radius: 50%;" />
 
   # Hi there, I'm Ahmed Eldasoky 👋
 
