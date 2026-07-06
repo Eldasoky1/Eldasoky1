@@ -141,12 +141,10 @@ E-JUST's rigorous CS curriculum gave me the foundations: embedded systems, opera
 <br>
 
 <div align="center">
-  <a href="https://github.com/Eldasoky1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eldasoky1&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="195" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Eldasoky1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldasoky1&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" height="195" alt="Top Languages" />
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eldasoky1&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26)](https://github.com/Eldasoky1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eldasoky1&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26)](https://github.com/Eldasoky1)
+
 </div>
 
 <br>
